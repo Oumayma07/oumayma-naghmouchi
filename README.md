@@ -14,6 +14,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,3 +76,4 @@ I am particularly interested in software engineering, backend development, and s
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/oumayma-naghmouchi-563b072aa/
 - 📧 Email: naghmouchioumayma40@gmail.com
+- 🌐 Portfolio: https://oumaymaaa-portfolio.netlify.app/
